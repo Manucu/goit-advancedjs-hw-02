@@ -1,6 +1,5 @@
-import "./css/style.css";
-import javascriptLogo from "../img/javascript.svg";
-import viteLogo from "/vite.svg";
+import "./css/styles.css";
+
 
 // Import the necessary libraries
 import iziToast from "izitoast";
