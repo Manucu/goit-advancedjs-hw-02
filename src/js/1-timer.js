@@ -1,6 +1,4 @@
 import "../css/styles.css";
-import javascriptLogo from "../img/javascript.svg";
-import viteLogo from "/vite.svg";
 
 import flatpickr from "flatpickr";
 import "flatpickr/dist/flatpickr.min.css";
